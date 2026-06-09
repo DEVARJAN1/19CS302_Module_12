@@ -8,7 +8,7 @@ To write a C function to find the peek element of the queue using linked list.
 2. Check if the queue is empty (`front == NULL`):  
    - If empty, print "Queue is empty" and exit.  
 3. Otherwise, return the `data` of the `front` node.  
-4. End 
+4. End  
 
 ## Program:
 ```
