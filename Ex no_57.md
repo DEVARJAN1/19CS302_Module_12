@@ -10,7 +10,7 @@ To write a C function to perfom push,pop and peek functions in Stack using Linke
    - `data` (float type)  
    - `next` (pointer to the next node)  
 3. Initialize `top` as `NULL` (empty stack).  
-4. Push Operation: 
+4. Push Operation:  
    - Create a new node.  
    - Assign the float value to `data`.  
    - Set `next` to `top`.  
