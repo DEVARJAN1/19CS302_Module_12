@@ -9,7 +9,7 @@ To write a C Function to display queue elements using Linked List.
    - `data` (integer type)  
    - `next` (pointer to the next node)  
 3. Initialize `front` and `rear` pointers:  
-   - `front` points to the first node in the queue  
+   - `front` points to the first node in the queue   
    - `rear` points to the last node in the queue  
 4. Check if `front` is `NULL`:  
    - If `NULL`, print "Queue is empty" and exit.  
